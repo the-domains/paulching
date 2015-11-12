@@ -1,0 +1,12 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9659498
+  brandStrength: 0.5286738
+  lightness: 0.8476703
+  brandColors:
+    - '#91A3BD'
+    - '#4C5B77'
+    - '#BDCFE0'
+  rhythmicContrast: 0.811828
+typography_spectrum: 0.2204301
+name: PaulChing
