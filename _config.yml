@@ -1,12 +1,27 @@
+name: PaulChing
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.2204301
+title: PaulChing
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9659498
-  brandStrength: 0.5286738
-  lightness: 0.8476703
   brandColors:
     - '#91A3BD'
     - '#4C5B77'
     - '#BDCFE0'
+  brandStrength: 0.5286738
+  lightness: 0.8476703
+  saturation: 0.9659498
   rhythmicContrast: 0.811828
-typography_spectrum: 0.2204301
-name: PaulChing
+purpose: []
