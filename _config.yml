@@ -6,21 +6,20 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.9659498
-  brandStrength: 0.5
-  rhythmicContrast: 0.811828
-  brandColors:
-    - '#91A3BD'
-    - '#4C5B77'
-    - '#BDCFE0'
   lightness: 0.8476703
+  brandStrength: 0.9103943
+  brandColors:
+    - '#CF0E30'
+    - '#9D0008'
+  rhythmicContrast: 0.811828
 cta:
   bucket: null
   version: null
@@ -29,11 +28,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: PaulChing
 favicon: null
+name: PaulChing
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2204301
-layout_spectrum: 1
+typography_spectrum: 0.3351254
+layout_spectrum: 0.9784946
